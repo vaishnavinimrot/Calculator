@@ -1,0 +1,31 @@
+
+body {
+  text-align: center;
+  background-color: #F0FFF0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.calculator {
+  background-color: rgb(227, 98, 98);
+  border: 2px solid black; 
+  padding: 20px; 
+  width: fit-content; 
+  margin: auto; 
+  border-radius: 5px; 
+}
+input {
+  width: 75%;
+  text-align: right;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgb(248, 225, 214);
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  margin: 5px;
+}
